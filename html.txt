@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <title>이가영의 웹페이지</title>
+    </head>
+    <body>
+        <h3>자기 소개</h3> 
+            이름 : 이가영<br>
+            관심분야: 프로그래밍 <br>
+            희망직업: 창업 <br>
+            교수님 항상 좋은 수업 감사합니다. ^__^<br>
+
+         <img src =https://i.pinimg.com/236x/8d/11/a3/8d11a368b5293315c34472224ff53600.jpg> <br> 이미지 출처 : pinterest <br>
+         <h3>내가 모은 신문기사</h3>
+             <a href = 'https://www.sedaily.com/NewsView/2D6KZIPL95' target = '_blank' > AI혁신과 저작권 보호 딜레마, 개발자-창작자 균형 맞춰 해결을" [지속가능한 AI포럼] </a>
+             <a href = 'https://economist.co.kr/article/view/ecn202403150047'  target = '_blank'> ‘애플카’ 접은 애플, AI 일성…캐나다 스타트업 인수, 의미는? </a>
+             <a href = 'https://news.mt.co.kr/mtview.php?no=2024032207243552197'  target = '_blank'> [IT썰] "텔레파시가 인생 바꿨다"…체스 즐긴 사지마비 환자 </a>
+             <a href = 'https://v.daum.net/v/20240330104942277'  target = '_blank'> '질문 세례' 진땀 네이버 최수연 vs '대표 취임' 침묵 카카오 정신아 </a>
+             <a href = 'https://v.daum.net/v/20240405141332419'  target = '_blank'> 애플카 중단 후폭풍…애플, 직원 600명 해고 </a>
+             <a href = 'https://v.daum.net/v/20240429205402105'  target = '_blank'> 출시 초 '반짝' 후…잊혀지는 애플 비전 프로 </a>
+             <a href = 'https://www.asiae.co.kr/article/2024050516112291868'  target = '_blank'> "우리 알람은 울려요" 삼성전자 동영상…아이폰 저격? </a>
+             <a href = 'https://n.news.naver.com/mnews/article/277/0005417179'  target = '_blank'> [애플 쇼크웨이브] 초당 38조 계산 괴물칩 등장…이젠 신경망 경쟁 </a>
+             <a href = 'https://n.news.naver.com/mnews/article/366/0000993382'  target = '_blank'> 더 얇은 아이폰 나온다… “프로맥스보다 비쌀 전망” </a>
+    </body>
+</html>
